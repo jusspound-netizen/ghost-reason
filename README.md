@@ -34,3 +34,8 @@ ghost-reason view
 ## License
 
 MIT
+---
+
+### 🛠️ Ready-to-use Agent Skills
+Reasoning traces are great for debugging, but they also reveal where your agent is wasting tokens. Use the **Agent Cost Auditor** skill on Agensi to analyze your `ghost-reason` logs and get a quantified savings report.
+👉 **[Get Agent Cost Auditor on Agensi](https://www.agensi.io/r/CONTEXTBRIDGE?to=/skills/agent-cost-auditor)**
